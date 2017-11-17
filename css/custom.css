@@ -1,0 +1,67 @@
+/* Add here all your CSS customizations */
+.slides {
+    background-color: #4169E1;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.slides h2, .slides p {
+    color: whitesmoke;
+}
+
+.carousel-caption h3 {
+    color: whitesmoke;
+    font-weight: bold;
+    -webkit-text-stroke: 1px gray;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: gray;
+}
+
+.carousel-indicators li {
+    background-color: orange;
+}
+
+
+.features {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.features h4 {
+    color: #007BFF;
+}
+
+.features article h6 {
+    font-weight: bold;
+    color:#435656;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.services {
+    background-color: #E3F6FC;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.services h4, .services h6 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: uppercase;
+    text-align: center;
+    color: #05779A;
+}
+
+.services .service-icon {
+    margin-top: 10px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.services .service-icon i {
+    color: #3399cc;
+    font-size: 70px;
+}
